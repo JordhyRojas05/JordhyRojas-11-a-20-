@@ -6,3 +6,4 @@
 **Materia:** Lenguaje de Interfaz  
 **Fecha:** 11 de Noviembre del 2024
 ---
+11-Verificar si una cadena es palíndromo:
