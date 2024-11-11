@@ -1,5 +1,5 @@
     .data
-array:      .word 12, 45, 7, 23, 67, 89, 34, 56, 90, 14 // Arreglo de ejemplo
+array:      .word 12, 45, 7, 23, 67, 89, 34, 56, 90, 14 // Arreglo de ejemplol
 arr_len:    .word 10                                    // Longitud del arreglo
 msg_result: .asciz "El valor máximo en el arreglo es: %d\n" // Mensaje para imprimir el resultado
 
